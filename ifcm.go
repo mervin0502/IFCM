@@ -6,12 +6,6 @@ import (
 	"sort"
 )
 
-// func init() {
-// 	log.Println("domain")
-// 	fmt.Println("domain")
-// 	// log.SetOutput(bytes.NewReader(b))
-// }
-
 //Interval
 type Interval struct {
 	Start float64
